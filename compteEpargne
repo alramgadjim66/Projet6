@@ -1,0 +1,14 @@
+class CompteEpargne():
+soldeMinimal=0
+Interet=0.1
+client=0
+retirer=0
+verser=0
+codecompte=""
+print("ALRAM, 17B223FS")
+print("solde()*-Interet")
+print("solde()*+Interet)
+
+
+# ALRAM YVES GADJIM 17B223FS
+# LIEN YOUTUB:https://www.youtube.com/watch?v=17cVOVNS_-4
